@@ -34,20 +34,23 @@ Thanks to these components, the Kalichain ecosystem aims to revolutionize how we
 
 ---
 
+Below is an updated **Technical Characteristics** section including the new Kalichain subnet (Chain ID 6533), its RPC, and the beta explorer:
+
+---
+
 ## Technical Characteristics
 
-| Parameter             | Details                                                                          |
-|-----------------------|----------------------------------------------------------------------------------|
-| **Network**           | Kalichain Mainnet (Avalanche Subnet) – Testnet available                         |
-| **Chain ID**          | Mainnet: 654 / Testnet: 653 [github.com](https://github.com)                     |
-| **Native Token**      | **KALIS** (used for gas fees and governance)                                     |
-| **Consensus**         | Proof of Stake (PoS) – Avalanche consensus <br/>(Snowman/Avalanche protocols)    |
-| **Virtual Machine**   | EVM (100% Solidity-compatible, smart contract support)                           |
-| **Performance**       | Transaction finality ~1-2 seconds, high scalability (thousands of TPS possible)  |
-| **Blockchain Explorer** | [explorer.kalichain.com](https://explorer.kalichain.com) (Mainnet & Testnet)   |
+| Parameter               | Details                                                                                                                                                           |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Networks**           | **Mainnet** (Chain ID **654**), **Beta Subnet** (Chain ID **6533**), and **Testnet** (Chain ID **653**)                                                                 |
+| **RPC Endpoints**      | - Mainnet: [https://mainnet.kalichain.com](https://mainnet.kalichain.com)<br/>- Beta Subnet: [https://subnets.avax.network/kalichain/mainnet/rpc](https://subnets.avax.network/kalichain/mainnet/rpc)<br/>- Testnet: [https://testnet.kalichain.com](https://testnet.kalichain.com) |
+| **Native Token**       | **KALIS** (used for gas fees and governance)                                                                                                                        |
+| **Consensus**          | Proof of Stake (PoS) – Avalanche consensus <br/>(Snowman/Avalanche protocols)                                                                                      |
+| **Virtual Machine**    | EVM (100% Solidity-compatible, smart contract support)                                                                                                              |
+| **Performance**        | Transaction finality ~1–2 seconds, high scalability (thousands of TPS possible)                                                                                    |
+| **Blockchain Explorers** | - Mainnet Explorer: [explorer.kalichain.com](https://explorer.kalichain.com) <br/>- Beta Explorer: [beta.kalichain.com](https://beta.kalichain.com)                                                  |
 
-KALICHAIN functions as an EVM-compatible blockchain, meaning developers can deploy Solidity smart contracts and use the same tools as on Ethereum. The **KALIS** token is the native currency of the network: it is used to pay transaction fees (gas) and powers the ecosystem’s applications. Chain ID **654** identifies the Kalichain network in wallets and applications (the Testnet uses ID **653**)  
-[github.com](https://github.com). Avalanche consensus (PoS) provides Kalichain with a high level of security and high performance without mining, through a network of validators that quickly agree on the ledger’s state.
+KALICHAIN functions as an EVM-compatible blockchain, meaning developers can deploy Solidity smart contracts and use the same tools as on Ethereum. The **KALIS** token is the native currency of the network: it is used to pay transaction fees (gas) and powers the ecosystem’s applications. By default, Chain ID **654** identifies the main Kalichain network; Chain ID **653** is used for the Testnet; and Chain ID **6533** is used for the new Beta Subnet. Avalanche consensus (PoS) provides Kalichain with a high level of security and high performance without mining, through a network of validators that quickly reach agreement on the ledger’s state.
 
 ---
 
