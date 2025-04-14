@@ -182,7 +182,7 @@ Kalichain’s governance is designed to actively involve the KALIS community:
 Kalichain offers multiple support channels and a vibrant community:
 
 - **Website**: kalichain.com – Official announcements, blog, and FAQ.  
-- **Telegram (Community)**: An official group with thousands of community members, ideal for quick Q&A and updates.  
+- **Telegram (Community)**: An official group with thousands of community members, ideal for quick Q&A and updates https://t.me/kalichain .  
 - **Discord (Developers & Support)**: Main hub for technical discussions, improvement proposals, and developer help.  
 - **Twitter (X)**: Follow “@kalichainoff” for key announcements, partnerships, ecosystem highlights, and event reminders.  
 - **Email**: contact@kalichain.com – For formal or private inquiries (partnerships, media, technical issues, etc.).  
