@@ -1,7 +1,3 @@
-Below is a revised version of the README text with **external links that are not part of the Kalichain ecosystem removed**. Mentions of outside sites remain where contextually relevant, but the hyperlinks themselves have been taken out. References to Kalichain’s own domains, official explorers, and internal services are kept intact.
-
----
-
 # KALICHAIN – Avalanche Subnet
 
 KALICHAIN is an innovative Layer 1 (L1) blockchain specializing in the certification and traceability of physical products through blockchain technology. By combining NFC, blockchain, and NFTs, KALICHAIN provides each item with a tamper-proof digital passport accessible via a simple mobile scan.
