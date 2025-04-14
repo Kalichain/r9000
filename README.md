@@ -87,6 +87,16 @@ As an Avalanche subnet, Kalichain benefits from the underlying infrastructure an
      - **Symbol**: KALIS  
      - **Block Explorer**: `https://explorer.kalichain.com`  
    - Confirm to save. You can then select Kalichain in MetaMask and see your KALIS balance (import the KALIS token if needed).
+  
+   -  **UPDATE KALICHAIN **  
+   - Open MetaMask and choose “Add Network.”  
+   - Enter the following Kalichain Mainnet details:  
+     - **Network Name**: Kalichain Mainnet  
+     - **New RPC URL**: `https://subnets.avax.network/kalichain/mainnet/rpc`  
+     - **Chain ID**: 6533  
+     - **Symbol**: KALIS  
+     - **Block Explorer**: `https://beta.kalichain.com`  
+   - Confirm to save. You can then select Kalichain in MetaMask and see your KALIS balance (import the KALIS token if needed).
 
 2. **Other Methods**  
    - Kalichain may also be added through network lists or tools that automate custom network addition in MetaMask. If using such a service, simply search for “Kalichain” and follow the prompts.
