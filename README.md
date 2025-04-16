@@ -28,15 +28,15 @@ Thanks to these components, the Kalichain ecosystem aims to revolutionize how we
 
 | Parameter               | Details                                                                                                                    |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Networks**            | **Mainnet** (Chain ID **654**), **Beta Subnet** (Chain ID **6533**), and **Testnet** (Chain ID **653**)                   |
-| **RPC Endpoints**       | - Mainnet: `https://mainnet.kalichain.com`<br/>- Beta Subnet: `https://subnets.avax.network/kalichain/mainnet/rpc`<br/>- Testnet: `https://testnet.kalichain.com` |
+| **Networks**            | **Mainnet** (Chain ID **654**), **mainnet Subnet** (Chain ID **6533**), and **Testnet** (Chain ID **653**)                   |
+| **RPC Endpoints**       | - Mainnet: `https://mainnet.kalichain.com`<br/>- mainnet Subnet: `https://subnets.avax.network/kalichain/mainnet/rpc`<br/>- Testnet: `https://testnet.kalichain.com` |
 | **Native Token**        | **KALIS** (used for gas fees and governance)                                                                               |
 | **Consensus**           | Proof of Stake (PoS) – Avalanche consensus (Snowman/Avalanche protocols)                                                  |
 | **Virtual Machine**     | EVM (100% Solidity-compatible, smart contract support)                                                                     |
 | **Performance**         | Transaction finality ~1–2 seconds, high scalability (thousands of TPS possible)                                           |
-| **Blockchain Explorers**| - Mainnet Explorer: `explorer.kalichain.com` <br/>- Beta Explorer: `beta.kalichain.com`                                    |
+| **Blockchain Explorers**| - Mainnet Explorer: `explorer.kalichain.com` <br/>- mainnet Explorer: `scan.kalichain.com`                                    |
 
-KALICHAIN functions as an EVM-compatible blockchain, meaning developers can deploy Solidity smart contracts and use the same tools as on Ethereum. The **KALIS** token is the native currency of the network: it is used to pay transaction fees (gas) and powers the ecosystem’s applications. By default, Chain ID **654** identifies the main Kalichain network; Chain ID **653** is used for the Testnet; and Chain ID **6533** is used for the new Beta Subnet. Avalanche consensus (PoS) provides Kalichain with a high level of security and high performance without mining, through a network of validators that quickly reach agreement on the ledger’s state.
+KALICHAIN functions as an EVM-compatible blockchain, meaning developers can deploy Solidity smart contracts and use the same tools as on Ethereum. The **KALIS** token is the native currency of the network: it is used to pay transaction fees (gas) and powers the ecosystem’s applications. By default, Chain ID **654** identifies the main Kalichain network; Chain ID **653** is used for the Testnet; and Chain ID **6533** is used for the new mainnet Subnet. Avalanche consensus (PoS) provides Kalichain with a high level of security and high performance without mining, through a network of validators that quickly reach agreement on the ledger’s state.
 
 ---
 
@@ -91,7 +91,7 @@ As an Avalanche subnet, Kalichain benefits from the underlying infrastructure an
      - **New RPC URL**: `https://subnets.avax.network/kalichain/mainnet/rpc`  
      - **Chain ID**: 6533  
      - **Symbol**: KALIS  
-     - **Block Explorer**: `https://beta.kalichain.com`  
+     - **Block Explorer**: `https://scan.kalichain.com`  
    - Confirm to save. You can then select Kalichain in MetaMask and see your KALIS balance (import the KALIS token if needed).
 
 2. **Other Methods**  
