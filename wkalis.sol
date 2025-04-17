@@ -10,7 +10,7 @@ import "@openzeppelin/contracts@4.9.6/access/Ownable.sol";
 
 /**
  * @title Wrapped Native Kalis (wKalis)
- * @notice Version “WETH” pour le coin natif Kalis. 1 wKalis = 1 KLS natif conservé.
+ * @notice Version “WKALIS” pour le coin natif Kalis. 1 wKalis = 1 KLS natif conservé.
  *
  *  ▸ Dépôt : `deposit()` / `depositFor(to)` ou envoi direct → frappe wKalis.
  *  ▸ Retrait : `withdraw(amount)` / `withdrawTo(to, amount)` → brûle, renvoie KLS.
